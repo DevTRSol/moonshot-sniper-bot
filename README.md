@@ -39,8 +39,14 @@ Additionally, you can view real-time logs of bot activity on your screen and fil
 
 **Subscription: 10 SOL for a monthly subscription.**
 
-**Trial Version: 30-minute trial available upon request via @SolFactory_bot.**
+**Trial Version: 30-minute trial available**
 
 ### ❗️How to get started with Moonshot Sniper Bot?❗️
 
-We offer you to take a 30-minute test before buying, you can do this in the bot - @SolFactory_bot Just type TRIAL.
+### We offer you to take a 30-minute test before buying
+
+<a href="https://solanafactory.dev">
+  <img src="https://github.com/DevTRSol/moonshot-sniper-bot/blob/main/readme/button.png" alt="GET TRIAL KEY" width="377" height="97">
+</a>
+
+
