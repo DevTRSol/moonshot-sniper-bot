@@ -39,6 +39,8 @@ Additionally, you can view real-time logs of bot activity on your screen and fil
 
 **Subscription: 10 SOL for a monthly subscription.**
 
+**Source Code: 50 SOL for the source code**
+
 **Trial Version: 30-minute trial available**
 
 ### ❗️How to get started with Moonshot Sniper Bot?❗️
