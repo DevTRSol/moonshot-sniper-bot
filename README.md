@@ -47,7 +47,7 @@ Additionally, you can view real-time logs of bot activity on your screen and fil
 
 ### We offer you to take a 30-minute test before buying
 
-<a href="https://solanafactory.dev">
+<a href="https://t.me/SolFactory_bot">
   <img src="https://github.com/DevTRSol/moonshot-sniper-bot/blob/main/readme/button.png" alt="GET TRIAL KEY" width="377" height="97">
 </a>
 
